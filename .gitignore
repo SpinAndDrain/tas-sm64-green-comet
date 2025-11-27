@@ -1,0 +1,59 @@
+# ============================
+# PYTHON
+# ============================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# ============================
+# SUPER MARIO 64 / TAS-STUFF
+# ============================
+
+# ROMs, ISOs, BIOS (should NEVER be in git)
+*.z64
+*.n64
+*.v64
+*.iso
+*.bin
+
+# Backup states or autosaves
+*backup*
+*.bak
+
+# Emulator-specific config files
+*.cfg
+*.ini
+mupen64plus.cfg
+mupen64plus.ini
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Boilerplate
+routing_calc_castle_ground_basement/

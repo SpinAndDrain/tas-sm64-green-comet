@@ -1,0 +1,4 @@
+BLJ:
+angle = 35371
+endspeed = -2675
+bouncespeed = 700~~

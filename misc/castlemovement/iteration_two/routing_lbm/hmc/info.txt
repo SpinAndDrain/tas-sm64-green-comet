@@ -1,0 +1,5 @@
+DSG vs. no DSG is tied
+BLJ start downclip is faster
+pause buffer onto fence is slightly slower than waiting on the staircase
+
+pause+exit after metal cap inside of hmc is faster with dsg exit (1f), so dsg star should be done last
